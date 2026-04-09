@@ -1,0 +1,2 @@
+# qaydlar
+Qaydlar mobil ilovasi.
